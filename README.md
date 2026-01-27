@@ -31,4 +31,4 @@ I’m developing skills in web development with a growing focus on cybersecurity
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## 📊 Github Stats
-![Dren's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdren&show_icons=true&theme=vision-friendly-dark)
+![Dren's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdren&show_icons=true&theme=buefy)
