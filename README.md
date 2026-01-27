@@ -2,7 +2,7 @@
 
 <!--**realdren/realdren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I’m developing skills in web development with a growing focus on cybersecurity, secure systems, and threat awareness.
+I’m building expertise in web technologies with a growing focus on cybersecurity, secure systems, and threat awareness.
 
 ### 🎯 What I’m working on
 
@@ -31,4 +31,4 @@ I’m developing skills in web development with a growing focus on cybersecurity
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## 📊 Github Stats
-![Dren's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdren&show_icons=true&theme=buefy)
+![Dren's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdren&show_icons=true&theme=github_dark)
