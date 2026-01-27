@@ -16,6 +16,14 @@ I’m developing skills in web development with a growing focus on cybersecurity
 * Threat detection & monitoring
 * Continuous learning <br/><br/>
 
-<!--Github Stats from https://github.com/anuraghazra/github-readme-stats -->
+## 💻 TechStacks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## 📊 Github Stats
 ![Dren's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdren&show_icons=true&theme=vision-friendly-dark)
