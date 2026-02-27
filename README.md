@@ -30,5 +30,3 @@ I’m building expertise in web technologies with a growing focus on cybersecuri
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## 📊 Github Stats
-![Dren's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdren&show_icons=true&theme=github_dark)
