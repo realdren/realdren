@@ -2,19 +2,17 @@
 
 <!--**realdren/realdren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I’m building expertise in web technologies with a growing focus on cybersecurity, secure systems, and threat awareness.
+I build web-based systems using AI coding assistance and my critical thinking to drive improvements. Actively learning computer networks to deepen my technical expertise.
 
 ### 🎯 What I’m working on
 
-* Web development projects
-* Secure and clean coding practices
-* Learning cybersecurity fundamentals
+A web-based system developed with AI tools and human-driven optimization.
 
-### ⭐ Interests 
+### 🧑‍💻 My Focus 
 
-* Application security
-* Threat detection & monitoring
-* Continuous learning <br/><br/>
+* Web development and system optimization
+* AI-assisted coding workflows
+* Computer networking fundamentals and applications <br/><br/>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
